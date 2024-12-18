@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(244, 153, 35);
+}
+
+.titre1, .titre2{
+    text-align: center;
+}
+
+.trait{
+    width: 100px;
+}
+ img{
+    border-radius: 50%;
+ }
